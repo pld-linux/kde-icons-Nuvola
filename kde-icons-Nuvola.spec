@@ -1,4 +1,4 @@
-#$Revision: 1.4 $, $Date: 2004-10-19 21:25:54 $
+#$Revision: 1.5 $, $Date: 2005-03-23 17:18:07 $
 
 %define		_name	nuvola
 
@@ -12,7 +12,6 @@ License:	GPL
 Group:		Themes
 Source0:	http://www.icon-king.com/files/%{_name}-%{version}.tar.gz
 # Source0-md5:	bf3e477716fe0b39de81c210d1b5a8d1
-# Source0-size:	13594245
 URL:		http://www.icon-king.com/
 Requires:	kdelibs
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
