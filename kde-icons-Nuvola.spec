@@ -1,17 +1,19 @@
-#$Revision: 1.2 $, $Date: 2004-09-01 07:17:25 $
+#$Revision: 1.3 $, $Date: 2004-10-19 21:09:57 $
 
 %define		_name	nuvola
 
 Summary:	KDE icons - Nuvola
 Summary(pl):	Motyw ikon do KDE - Nuvola
 Name:		kde-icons-Nuvola
-Version:	1.0rc1
+Version:	1.0
 Release:	1
+Epoch:		0
 License:	GPL
 Group:		Themes
 Source0:	http://www.icon-king.com/files/%{_name}-%{version}.tar.gz
-# Source0-md5:	acb6e73b5bc61bc7ca5df87e7712ffc3
-URL:		http://www.kde-look.org/content/show.php?content=5358
+# Source0-md5:	bf3e477716fe0b39de81c210d1b5a8d1
+# Source0-size:	13594245
+URL:		http://www.icon-king.com/
 Requires:	kdelibs
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 BuildArch:	noarch
