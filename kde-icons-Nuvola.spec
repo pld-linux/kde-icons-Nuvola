@@ -1,4 +1,4 @@
-#$Revision: 1.3 $, $Date: 2004-10-19 21:09:57 $
+#$Revision: 1.4 $, $Date: 2004-10-19 21:25:54 $
 
 %define		_name	nuvola
 
@@ -7,7 +7,7 @@ Summary(pl):	Motyw ikon do KDE - Nuvola
 Name:		kde-icons-Nuvola
 Version:	1.0
 Release:	1
-Epoch:		0
+Epoch:		1
 License:	GPL
 Group:		Themes
 Source0:	http://www.icon-king.com/files/%{_name}-%{version}.tar.gz
