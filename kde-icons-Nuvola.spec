@@ -1,9 +1,9 @@
-#$Revision: 1.6 $, $Date: 2007-02-12 00:48:58 $
+#$Revision: 1.7 $, $Date: 2007-02-13 08:06:36 $
 
 %define		_name	nuvola
 
 Summary:	KDE icons - Nuvola
-Summary(pl.UTF-8):   Motyw ikon do KDE - Nuvola
+Summary(pl.UTF-8):	Motyw ikon do KDE - Nuvola
 Name:		kde-icons-Nuvola
 Version:	1.0
 Release:	1
